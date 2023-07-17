@@ -1,0 +1,11 @@
+:root {
+  background-color: whitesmoke;
+  color: #212427;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
